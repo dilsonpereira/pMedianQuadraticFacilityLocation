@@ -1,0 +1,2 @@
+# pMedianQuadraticFacilityLocation
+Detailed computational results
